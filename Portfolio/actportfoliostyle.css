@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(180, 98, 40, 0.733);
+  background-size: cover;
+  height: 100vh;
+}
+
+a {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.title {
+  font-size: larger;
+  font-weight: bold;
+  text-decoration: underline;
+}
